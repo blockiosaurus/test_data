@@ -1,0 +1,145 @@
+{
+    "name": "Lil Uni Jrex UNIREX#3433",
+    "description": "Each Unirex is a precious ticket to the future city of Unirexcity. Keep it safe.",
+    "seller_fee_basis_points": 800,
+    "image": "https://www.arweave.net/ICkuKGK7PPyt6DhfUPEVvkzOMUNJhZJDfKVxIcJaoGQ?ext=png",
+    "external_url": "https://unirex.city",
+    "symbol": "UNIREX",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Unirex"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Shomacan"
+        },
+        {
+            "trait_type": "Body cut",
+            "value": "Shomacan harmoney"
+        },
+        {
+            "trait_type": "Scar",
+            "value": "No trait"
+        },
+        {
+            "trait_type": "Tattoos",
+            "value": "Croissant"
+        },
+        {
+            "trait_type": "Tattoos count",
+            "value": 2
+        },
+        {
+            "trait_type": "Body color 1",
+            "value": "Ceramic"
+        },
+        {
+            "trait_type": "Body color 2",
+            "value": "Off-white"
+        },
+        {
+            "trait_type": "Jaw",
+            "value": "Open"
+        },
+        {
+            "trait_type": "Gaze",
+            "value": "Surprised"
+        },
+        {
+            "trait_type": "Eyes colors",
+            "value": "Aerospace orange/Canary"
+        },
+        {
+            "trait_type": "Pupil",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Arm",
+            "value": "Wondering"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Classy"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "No trait"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "Silver Soft-G"
+        },
+        {
+            "trait_type": "Hand objects",
+            "value": "No trait"
+        },
+        {
+            "trait_type": "Jewelries",
+            "value": "Fancy Bracelet"
+        },
+        {
+            "trait_type": "Jewelries count",
+            "value": 1
+        },
+        {
+            "trait_type": "Background",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Clothing piece 1",
+            "value": "No trait"
+        },
+        {
+            "trait_type": "Clothing piece 2",
+            "value": "No trait"
+        },
+        {
+            "trait_type": "Clothing accessory",
+            "value": "No trait"
+        },
+        {
+            "trait_type": "Sequence",
+            "value": "9410-2273"
+        },
+        {
+            "trait_type": "Attributes count",
+            "value": 11
+        }
+    ],
+    "collection": {
+        "name": "Unirexcity",
+        "family": "Unirexcity (Gen 1)"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.net/ICkuKGK7PPyt6DhfUPEVvkzOMUNJhZJDfKVxIcJaoGQ?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "BPFxj4DSN4r8bJtFzoo3pPmdiAM5aNapNkqHwZxj2vRE",
+                "share": 0
+            },
+            {
+                "address": "DhYCi6pvfhJkPRpt5RjYwsE1hZw84iu6twbRt9B6dYLV",
+                "share": 0
+            },
+            {
+                "address": "CqQnLhBhi2SJ5gm6rEL48XXr4xVdVAip5PaV2B6CcuwA",
+                "share": 100
+            }
+        ]
+    },
+    "arweaveURI": "",
+    "name_history": [
+        {
+            "name": "Lil Uni Jrex UNIREX#3433",
+            "name_giver": "GSiEFDrTttzSDFZz6VHx5rk1cKZ6ZzUHdUsEqY1r15Xy",
+            "time": 1637090277819
+        }
+    ]
+}
